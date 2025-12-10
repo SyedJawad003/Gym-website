@@ -7,5 +7,4 @@ React
 JavaScript
 TailwindCSS
 
-Demo
-Core-Fit.netlify.app
+open the link to go through the website: Core-Fit.netlify.app
